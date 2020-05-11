@@ -1,2 +1,5 @@
+checkpoints_cyclegan
+__pycache__
+samples_cyclegan
 summer2winter_yosemite
 .ipynb_checkpoints
